@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to customize the drop area and file list in the Syncfusion [Vue File Upload]( https://www.syncfusion.com/vue-components/vue-file-upload?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-file-upload-custom-file-list-sample) component. This project contains code to customize the file drop area using an anchor element, add a custom file list template with upload progress, success, and failure statuses.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/file-upload?title=how-to-customize-the-drop-area-and-file-list-in-the-vue-file 
 
 Refer to the following documentation to learn about the Vue File Upload component: https://ej2.syncfusion.com/vue/documentation/uploader/template#file-list-template
 
